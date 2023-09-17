@@ -1,0 +1,86 @@
+
+  [
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/hg2Lgc1/javascript.jpg",
+      "name": "JavaScript Fundamentals",
+      "description": "Learn the basics of JavaScript programming language.",
+      "price": 9000,
+      "credit": 2
+      
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/zfWkC7X/python-shutterstock.jpg",
+      "name": "Python for Beginners",
+      "description": "An introductory course to Python programming language.",
+      "price": 5500,
+      "credit": 3
+      
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/8PY3B6s/programming.jpg",
+      "name": "Programming Masterclass",
+      "description": "Advanced Java programming techniques and applications.",
+      "price": 7000,
+      "credit": 7
+      
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/XSYTJ2c/C-for-DSA.png",
+      "name": "C++ Programming Essentials",
+      "description": "Learn the fundamentals of C++ programming language.",
+      "price": 5000,
+      "credit": 4
+      
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/DYDDd8J/rubby.jpg",
+      "name": "Ruby on Rails Development",
+      "description": "Building web applications with Ruby on Rails.",
+      "price": 9500,
+      "credit": 5
+      
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/2N4LMVV/PHP.jpg",
+      "name": "PHP Web Development",
+      "description": "Learn PHP web development for dynamic websites.",
+      "price": 13000,
+      "credit": 7
+      
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/YPNdcgw/App-for-i-OS.jpg",
+      "name": "Swift Programming for iOS",
+      "description": "Developing iOS apps with Swift programming language.",
+      "price": 7500,
+      "credit": 6
+      
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/8BWx8gR/Go-Golang.jpg",
+      "name": "Go (Golang) Fundamentals",
+      "description": "Introduction to the Go programming language.",
+      "price": 12500,
+      "credit": 9
+      
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/P95TDmc/Type-Script.jpg",
+      "name": "TypeScript Mastery",
+      "description": "In-depth TypeScript programming and usage.",
+      "price": 3400,
+      "credit": 10
+      
+    }
+]
+  
+  
